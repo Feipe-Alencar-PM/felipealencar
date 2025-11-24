@@ -3,13 +3,16 @@
 ### My name is Felipe, I'm an experienced Technical Product Manager who started coding!
 
 ![](https://komarev.com/ghpvc/?username=felipe-alencar-pm)
-![X Follow](https://img.shields.io/twitter/follow/felipetechpm)
+
+<br>
 
 ### As a Technical Product Manager, I've been working on HUGE projects like:
 
 - :heavy_dollar_sign: Pix
 - :bank: Open Banking/Finance
 - :office: Open Insurance
+
+<br>
 
 ### My technologies:
 
@@ -106,6 +109,8 @@
   </tr>
 </table>                                                                                                                                                 
 
+<br>
+
 ### What I'm learning:
 
 <table>
@@ -148,6 +153,8 @@
     </td>
   </tr>
 </table>                                                                                                                                                      
+
+<br>
 
 ### Thanks for visiting my profile, reach me out:
 
